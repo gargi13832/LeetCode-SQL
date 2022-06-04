@@ -6,3 +6,4 @@
 4. Day1 - https://leetcode.com/problems/customers-who-never-order/
 5. Day2 - https://leetcode.com/problems/calculate-special-bonus/
 6. Day2 - https://leetcode.com/problems/swap-salary/
+7. Day2 - https://leetcode.com/problems/delete-duplicate-emails/
